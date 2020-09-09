@@ -1,1 +1,2 @@
 #why dont we use import smptlib (this is for emailing to a person)
+from matplotlib import pyplot as plt
